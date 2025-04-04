@@ -12,4 +12,4 @@ Z: Change dimension
 
 X: X-Target
 
-Tab: Switch target
+Tab: Switch spell
