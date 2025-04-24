@@ -1,18 +1,18 @@
 Maniac Magus
 
 A collaborative effort by the COD game development club submitted to the #SICK2025 Game Jam.
-In development from March 28th to April 20th, 2025.
+In development from March 28th to April 20th, 2025 (updated April 24th).
 
 Controls:
 
-Space: Jump/Dash
+B/Space: Jump/Dash
 
-Left Shift: Attack/Magic
+X/Left Shift: Attack/Magic
 
-Right Shift: Interact
+A/Right Shift: Interact
 
-Z: Change dimension
+Y/z: Change dimension
 
-X: X-Target
+RT/x: X-Target
 
-Tab: Switch spell
+LT/tab: Switch spell
